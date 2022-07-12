@@ -1,4 +1,4 @@
-# 2_WordPress_website_in_pure_HTML_and_CSS
+# WordPress
 
 Hello people!
 
