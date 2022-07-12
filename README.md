@@ -1,4 +1,4 @@
-# 02_2_Word_press
+# 2_WordPress_website_in_pure_HTML_and_CSS
 
 Hello people!
 
